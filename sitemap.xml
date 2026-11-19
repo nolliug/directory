@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://gtld.directory/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://gtld.directory/directory/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/resources/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/about/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/submit/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/editorial-policy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/privacy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/registry-operators/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/registrars/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/registry-service-providers/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/consultants/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/legal-ip/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/dns-infrastructure/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/escrow-trust/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/categories/marketing-brokers/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gtld.directory/companies/identity-digital/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gtld.directory/companies/nominet/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gtld.directory/companies/com-laude/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
