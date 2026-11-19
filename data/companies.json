@@ -1,0 +1,60 @@
+[
+  {
+    "id": "identity-digital",
+    "name": "Identity Digital",
+    "slug": "identity-digital",
+    "website": "https://identity.digital/",
+    "country": "United States",
+    "categories": [
+      "registry-operators",
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry operations",
+      "Registry services",
+      "DNS"
+    ],
+    "description": "A provider of registry services and domain name solutions, with a portfolio of top-level domains.",
+    "featured": true,
+    "verified": false
+  },
+  {
+    "id": "nominet",
+    "name": "Nominet",
+    "slug": "nominet",
+    "website": "https://www.nominet.uk/",
+    "country": "United Kingdom",
+    "categories": [
+      "registry-operators",
+      "dns-infrastructure"
+    ],
+    "services": [
+      "Registry operations",
+      "DNS",
+      "Cyber security"
+    ],
+    "description": "A UK-based organisation known for domain registry operations, DNS expertise and cyber security services.",
+    "featured": true,
+    "verified": false
+  },
+  {
+    "id": "com-laude",
+    "name": "Com Laude",
+    "slug": "com-laude",
+    "website": "https://comlaude.com/",
+    "country": "United Kingdom",
+    "categories": [
+      "registrars",
+      "consultants",
+      "legal-ip"
+    ],
+    "services": [
+      "Corporate domain management",
+      "Brand protection",
+      "Domain services"
+    ],
+    "description": "A provider of corporate domain name management and brand protection services.",
+    "featured": true,
+    "verified": false
+  }
+]
