@@ -56,5 +56,785 @@
     "description": "A provider of corporate domain name management and brand protection services.",
     "featured": true,
     "verified": false
+  },
+  {
+    "id": "afnic",
+    "name": "AFNIC",
+    "slug": "afnic",
+    "website": "https://www.afnic.fr/",
+    "country": "France",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A French registry and internet infrastructure organisation providing domain registry operations and registry services.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "AFNIC's ICANN-published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "alibaba-cloud",
+    "name": "Alibaba Cloud",
+    "slug": "alibaba-cloud",
+    "website": "https://www.alibabacloud.com/",
+    "country": "China",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A cloud computing and infrastructure provider listed by ICANN in the 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared; Proxy: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS, DNSSEC and Proxy services."
+    }
+  },
+  {
+    "id": "beijing-tele-info",
+    "name": "Beijing Tele-info Technology",
+    "slug": "beijing-tele-info",
+    "website": "https://www.teleinfo.cn/",
+    "country": "China",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A technology organisation listed by ICANN in the 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared; Proxy: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS, DNSSEC and Proxy services."
+    }
+  },
+  {
+    "id": "cira",
+    "name": "Canadian Internet Registration Authority (CIRA)",
+    "slug": "cira",
+    "website": "https://www.cira.ca/",
+    "country": "Canada",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "The Canadian Internet Registration Authority operates .CA and provides registry and internet services.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "centralnic",
+    "name": "CentralNic Registry",
+    "slug": "centralnic",
+    "website": "https://centralnicregistry.com/",
+    "country": "United Kingdom",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A registry services business providing technical and operational services to top-level domain registries.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "google-registry",
+    "name": "Google Registry",
+    "slug": "google-registry",
+    "website": "https://registry.google/",
+    "country": "United States",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "Google's registry business, responsible for operating a portfolio of top-level domains.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "core",
+    "name": "CORE Association",
+    "slug": "core",
+    "website": "https://corenic.org/",
+    "country": "Switzerland",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "An organisation active in domain name registry services and internet naming infrastructure.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "cz-nic",
+    "name": "CZ.NIC",
+    "slug": "cz-nic",
+    "website": "https://www.nic.cz/",
+    "country": "Czech Republic",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "The administrator of the .CZ country-code domain and an organisation active in internet infrastructure.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main and DNS services."
+    }
+  },
+  {
+    "id": "denic-services",
+    "name": "DENIC Services",
+    "slug": "denic-services",
+    "website": "https://www.denic-services.de/",
+    "country": "Germany",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A provider of registry-related technical services and internet infrastructure solutions.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "digicert-ultradns",
+    "name": "DigiCert UltraDNS",
+    "slug": "digicert-ultradns",
+    "website": "https://vercara.digicert.com/top-level-domain-dns",
+    "country": "United States",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A DNS infrastructure service listed by ICANN in the 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "gmo-registry",
+    "name": "GMO Registry",
+    "slug": "gmo-registry",
+    "website": "https://www.gmoregistry.com/en/",
+    "country": "Japan",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A domain registry business operating and supporting top-level domain services.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main and DNSSEC services."
+    }
+  },
+  {
+    "id": "zdns",
+    "name": "ZDNS",
+    "slug": "zdns",
+    "website": "https://www.zdns.cn/",
+    "country": "China",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "An internet infrastructure and DNS technology organisation listed in ICANN's RSP Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared; Proxy: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS, DNSSEC and Proxy services."
+    }
+  },
+  {
+    "id": "jprs",
+    "name": "Japan Registry Services (JPRS)",
+    "slug": "jprs",
+    "website": "https://jprs.co.jp/",
+    "country": "Japan",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A Japanese domain name registry and internet infrastructure services organisation.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "knipp",
+    "name": "TANGO Registry Services (Knipp)",
+    "slug": "knipp",
+    "website": "https://www.knipp.de/",
+    "country": "Germany",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "Knipp provides registry technology and domain name services through its TANGO Registry Services business.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "lemarit",
+    "name": "LEMARIT",
+    "slug": "lemarit",
+    "website": "https://www.lemarit.com/en/",
+    "country": "Germany",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A domain name management and registry services company listed by ICANN in the RSP Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main and DNS services."
+    }
+  },
+  {
+    "id": "netnod",
+    "name": "Netnod",
+    "slug": "netnod",
+    "website": "https://www.netnod.se/",
+    "country": "Sweden",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "An internet infrastructure organisation providing DNS and related technical services.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "nic-br",
+    "name": "NIC.br",
+    "slug": "nic-br",
+    "website": "https://nic.br/",
+    "country": "Brazil",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "The Brazilian Network Information Center, active in internet infrastructure and domain name services.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "godaddy-registry",
+    "name": "GoDaddy Registry",
+    "slug": "godaddy-registry",
+    "website": "https://registry.godaddy/",
+    "country": "United States",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A registry services business providing backend services for top-level domain operators.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "sidn",
+    "name": "SIDN",
+    "slug": "sidn",
+    "website": "https://www.sidn.nl/",
+    "country": "Netherlands",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "The .nl domain registry organisation, also offering registry services through SIDN Business / Hello Registry.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "tucows-registry",
+    "name": "Tucows Registry Services",
+    "slug": "tucows-registry",
+    "website": "https://www.tucowsregistry.com/",
+    "country": "Canada",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A registry services provider offering technical services and registry infrastructure to domain operators.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared; Proxy: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS, DNSSEC and Proxy services."
+    }
+  },
+  {
+    "id": "ryce",
+    "name": "RyCE",
+    "slug": "ryce",
+    "website": "https://ryce.at/",
+    "country": "Austria",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A registry service provider listed in ICANN's 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "tldbox",
+    "name": "tldbox",
+    "slug": "tldbox",
+    "website": "https://www.tldbox.at/",
+    "country": "Austria",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A registry technology and service provider listed in ICANN's 2026 Round RSP Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "tldtr",
+    "name": "TLDTR",
+    "slug": "tldtr",
+    "website": "https://tldtr.com/",
+    "country": "Turkey",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A technology and registry services organisation listed in ICANN's 2026 Round RSP Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main and DNS services."
+    }
+  },
+  {
+    "id": "itcom",
+    "name": "IT.COM Domains",
+    "slug": "itcom",
+    "website": "https://rsp.it.com/",
+    "country": "United Kingdom",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A domain name registry services business listed in ICANN's 2026 Round RSP Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main services."
+    }
+  },
+  {
+    "id": "adg",
+    "name": "PT AIDI DIGITAL GLOBAL",
+    "slug": "adg",
+    "website": "https://www.adg.id/",
+    "country": "Indonesia",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "An Indonesian technology organisation listed in ICANN's 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main services."
+    }
+  },
+  {
+    "id": "saiyu",
+    "name": "Saiyu Technology",
+    "slug": "saiyu",
+    "website": "https://www.saiyutech.cn/",
+    "country": "China",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A technology organisation listed in ICANN's 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared; Proxy: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS, DNSSEC and Proxy services."
+    }
+  },
+  {
+    "id": "yandex",
+    "name": "Yandex",
+    "slug": "yandex",
+    "website": "https://yandex.com/",
+    "country": "Russia",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A technology organisation listed in ICANN's 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
+  },
+  {
+    "id": "unstoppable-domains",
+    "name": "Unstoppable Domains",
+    "slug": "unstoppable-domains",
+    "website": "https://unstoppabledomains.com/",
+    "country": "United States",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A domain name technology company listed in ICANN's 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main services."
+    }
+  },
+  {
+    "id": "thai-name-server",
+    "name": "Thai Name Server",
+    "slug": "thai-name-server",
+    "website": "https://www.thains.co.th/",
+    "country": "Thailand",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A Thai internet and DNS services company listed in ICANN's RSP Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: screening cleared; testing in progress; DNSSEC: screening cleared; testing in progress",
+      "notes": "ICANN's published record showed technical screening cleared with technical testing in progress for Main and DNSSEC at the time of the 14 November 2026 list update."
+    }
+  },
+  {
+    "id": "beijing-guoxu",
+    "name": "Beijing Guoxu Network Technology",
+    "slug": "beijing-guoxu",
+    "website": "https://www.xdns.cn/",
+    "country": "China",
+    "categories": [
+      "registry-service-providers"
+    ],
+    "services": [
+      "Registry service provider",
+      "Registry technology",
+      "DNS and registry infrastructure"
+    ],
+    "description": "A network technology organisation listed in ICANN's 2026 Round Registry Service Provider Evaluation Program.",
+    "featured": false,
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "DNSSEC: screening cleared; testing in progress",
+      "notes": "ICANN's published record showed DNSSEC technical screening cleared with technical testing in progress at the time of the 14 November 2026 list update."
+    }
   }
 ]
