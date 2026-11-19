@@ -16,7 +16,15 @@
     ],
     "description": "A provider of registry services and domain name solutions, with a portfolio of top-level domains.",
     "featured": true,
-    "verified": false
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
   },
   {
     "id": "nominet",
@@ -35,7 +43,15 @@
     ],
     "description": "A UK-based organisation known for domain registry operations, DNS expertise and cyber security services.",
     "featured": true,
-    "verified": false
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared; DNS: cleared; DNSSEC: cleared",
+      "notes": "ICANN's published RSP record shows successful evaluation for Main, DNS and DNSSEC services."
+    }
   },
   {
     "id": "com-laude",
@@ -55,7 +71,15 @@
     ],
     "description": "A provider of corporate domain name management and brand protection services.",
     "featured": true,
-    "verified": false
+    "verified": false,
+    "rspEvaluation": {
+      "program": "ICANN New gTLD Program: 2026 Round",
+      "source": "ICANN List of Evaluated RSPs",
+      "sourceUrl": "https://newgtldprogram-2026-documents.icann.org/rsp-documents/rsp-applications.html",
+      "lastChecked": "2026-11-14",
+      "status": "Main: cleared",
+      "notes": "ICANN lists Dotbrand Limited, doing business as Com Laude & Markmonitor, with successful evaluation for Main services. Confirm the precise contracting entity and service scope directly with the provider."
+    }
   },
   {
     "id": "afnic",
