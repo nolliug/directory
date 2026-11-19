@@ -861,5 +861,348 @@
       "status": "DNSSEC: screening cleared; testing in progress",
       "notes": "ICANN's published record showed DNSSEC technical screening cleared with technical testing in progress at the time of the 14 November 2026 list update."
     }
+  },
+  {
+    "id": "36bootis",
+    "name": "36bootis",
+    "slug": "36bootis",
+    "website": "https://36bootis.com/",
+    "country": "Spain",
+    "categories": [
+      "consultants",
+      "dns-infrastructure"
+    ],
+    "services": [
+      "New gTLD consulting",
+      "DNS services",
+      "DNSSEC consulting",
+      "Technical advisory"
+    ],
+    "description": "A domain name industry consultancy listed in ICANN's Applicant Support Directory for technical assistance, consulting, DNS and DNSSEC services.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "cloudnames",
+    "name": "CloudNames",
+    "slug": "cloudnames",
+    "website": "https://www.cloudnames.com/",
+    "country": "Norway",
+    "categories": [
+      "consultants",
+      "registry-service-providers"
+    ],
+    "services": [
+      ".Brand advisory",
+      "New gTLD application support",
+      "Registry back-end services",
+      "DNS and DNSSEC"
+    ],
+    "description": "A domain name services provider and .Brand specialist listed in ICANN's Applicant Support Directory, with application, technical and registry support capabilities.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "dot-advice",
+    "name": "Dot Advice Ltd",
+    "slug": "dot-advice",
+    "website": "https://dotadvice.co.uk/",
+    "country": "United Kingdom",
+    "categories": [
+      "consultants"
+    ],
+    "services": [
+      "New gTLD consulting",
+      "Application writing",
+      "Business modelling",
+      "DNS services"
+    ],
+    "description": "A consultancy listed in ICANN's Applicant Support Directory for new gTLD consulting, application support, DNS services and business modelling.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "dottba",
+    "name": "DotTBA",
+    "slug": "dottba",
+    "website": "https://dottba.com/",
+    "country": "Canada",
+    "categories": [
+      "consultants"
+    ],
+    "services": [
+      "New gTLD consulting",
+      "Application writing",
+      "Financial analysis",
+      "Training"
+    ],
+    "description": "A new gTLD advisory organisation listed in ICANN's Applicant Support Directory for consulting, application support, financial analysis and training.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "dotzon",
+    "name": "DOTZON GmbH",
+    "slug": "dotzon",
+    "website": "https://dotzon.com/",
+    "country": "Germany",
+    "categories": [
+      "consultants"
+    ],
+    "services": [
+      "New gTLD strategy",
+      "Application writing",
+      "Registry business planning",
+      ".Brand advisory"
+    ],
+    "description": "A consultancy listed in ICANN's Applicant Support Directory for new gTLD consulting and application writing and processing.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "encirca",
+    "name": "EnCirca, Inc.",
+    "slug": "encirca",
+    "website": "https://www.encirca.com/",
+    "country": "United States",
+    "categories": [
+      "consultants",
+      "registrars"
+    ],
+    "services": [
+      "New gTLD consulting",
+      "DNS services",
+      "Registrar platform",
+      "Domain name services"
+    ],
+    "description": "A domain name services company listed in ICANN's Applicant Support Directory for technical assistance, consulting and DNS services.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "rodenbaugh-law",
+    "name": "Rodenbaugh Law",
+    "slug": "rodenbaugh-law",
+    "website": "https://rodenbaugh.com/",
+    "country": "United States",
+    "categories": [
+      "consultants",
+      "legal-ip"
+    ],
+    "services": [
+      "Domain name law",
+      "New gTLD application support",
+      "Trademark and IP advice",
+      "Policy and dispute support"
+    ],
+    "description": "A law practice listed in ICANN's Applicant Support Directory for consulting, new gTLD application support and legal and filing assistance.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "sedari",
+    "name": "Sedari",
+    "slug": "sedari",
+    "website": "https://sedari.com/",
+    "country": "Belgium",
+    "categories": [
+      "consultants"
+    ],
+    "services": [
+      "New gTLD consulting",
+      "Application support",
+      "Registry strategy",
+      "Technical advisory"
+    ],
+    "description": "A domain name industry advisory organisation listed in ICANN's Applicant Support Directory for consulting, application support and technical assistance.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "tldians",
+    "name": "TLDians",
+    "slug": "tldians",
+    "website": "https://tldians.com/",
+    "country": "Pakistan",
+    "categories": [
+      "consultants",
+      "registry-service-providers"
+    ],
+    "services": [
+      "New gTLD consulting",
+      "Application writing",
+      "Registry back-end services",
+      "DNS and DNSSEC"
+    ],
+    "description": "A domain name industry consultancy listed in ICANN's Applicant Support Directory for consulting, application support and technical and registry services.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "icall",
+    "name": "iCall Corporation",
+    "slug": "icall",
+    "website": "https://icallcorp.com/",
+    "country": "Philippines",
+    "categories": [
+      "consultants",
+      "registry-service-providers"
+    ],
+    "services": [
+      "New gTLD consulting",
+      "Application writing",
+      "Registry back-end services",
+      "DNS and DNSSEC",
+      "IDN support"
+    ],
+    "description": "A technology and domain name services organisation listed in ICANN's Applicant Support Directory for consulting, application and technical support.",
+    "featured": false,
+    "verified": false,
+    "icannApplicantSupport": {
+      "directory": "ICANN Applicant Support Directory",
+      "sourceUrl": "https://newgtlds.icann.org/en/applicants/candidate-support/non-financial-support",
+      "note": "Listed by ICANN as an organisation offering non-financial support. ICANN describes the directory as an informational courtesy, does not endorse listed organisations, and cautions that listing information may not be current."
+    }
+  },
+  {
+    "id": "pitch",
+    "name": "PITCH",
+    "slug": "pitch",
+    "website": "https://www.pitch.law/solutions/new-gtlds",
+    "country": "Netherlands",
+    "categories": [
+      "consultants",
+      "legal-ip"
+    ],
+    "services": [
+      "New gTLD legal advice",
+      ".Brand strategy",
+      "Application drafting",
+      "Registry agreements and contracts"
+    ],
+    "description": "A law firm offering legal and strategic advice on new gTLDs, including feasibility, registry partners, application drafting and the post-submission process.",
+    "applicantSupport": false,
+    "featured": false,
+    "verified": false
+  },
+  {
+    "id": "101domain",
+    "name": "101domain",
+    "slug": "101domain",
+    "website": "https://www.101domain.com/",
+    "country": "Ireland",
+    "categories": [
+      "registrars"
+    ],
+    "services": [
+      "Domain name registration",
+      "Corporate domain management",
+      "Domain portfolio services"
+    ],
+    "description": "A domain name registrar listed in ICANN's current accredited registrar directory (101domain GRS Limited; IANA ID 1011).",
+    "featured": false,
+    "verified": false,
+    "registrarAccreditation": {
+      "status": "Listed as an ICANN-accredited registrar",
+      "ianaNumber": 1011,
+      "source": "ICANN List of Accredited Registrars",
+      "sourceUrl": "https://www.icann.org/en/contracted-parties/accredited-registrars/list-of-accredited-registrars",
+      "lastChecked": "2026-11-19"
+    }
+  },
+  {
+    "id": "gandi",
+    "name": "Gandi",
+    "slug": "gandi",
+    "website": "https://www.gandi.net/",
+    "country": "France",
+    "categories": [
+      "registrars"
+    ],
+    "services": [
+      "Domain name registration",
+      "DNS services",
+      "Corporate domain management"
+    ],
+    "description": "A domain name registrar listed in ICANN's current accredited registrar directory (Gandi SAS; IANA ID 81).",
+    "featured": false,
+    "verified": false,
+    "registrarAccreditation": {
+      "status": "Listed as an ICANN-accredited registrar",
+      "ianaNumber": 81,
+      "source": "ICANN List of Accredited Registrars",
+      "sourceUrl": "https://www.icann.org/en/contracted-parties/accredited-registrars/list-of-accredited-registrars",
+      "lastChecked": "2026-11-19"
+    }
+  },
+  {
+    "id": "markmonitor",
+    "name": "Markmonitor",
+    "slug": "markmonitor",
+    "website": "https://www.markmonitor.com/",
+    "country": "United States",
+    "categories": [
+      "registrars"
+    ],
+    "services": [
+      "Corporate domain management",
+      "Domain name registration",
+      "Brand protection"
+    ],
+    "description": "A corporate domain management and brand protection provider listed in ICANN's current accredited registrar directory (MarkMonitor Inc.; IANA ID 292).",
+    "featured": false,
+    "verified": false,
+    "registrarAccreditation": {
+      "status": "Listed as an ICANN-accredited registrar",
+      "ianaNumber": 292,
+      "source": "ICANN List of Accredited Registrars",
+      "sourceUrl": "https://www.icann.org/en/contracted-parties/accredited-registrars/list-of-accredited-registrars",
+      "lastChecked": "2026-11-19"
+    }
   }
 ]
