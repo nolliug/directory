@@ -1,0 +1,50 @@
+[
+  {
+    "id": "registry-operators",
+    "name": "Registry operators",
+    "description": "Organisations responsible for operating top-level domains and registry infrastructure.",
+    "icon": "◎"
+  },
+  {
+    "id": "registrars",
+    "name": "Registrars",
+    "description": "ICANN-accredited registrars and domain registration providers.",
+    "icon": "⌘"
+  },
+  {
+    "id": "registry-service-providers",
+    "name": "Registry service providers",
+    "description": "Backend registry, technical and operational service providers.",
+    "icon": "▦"
+  },
+  {
+    "id": "consultants",
+    "name": "Consultants",
+    "description": "Strategic, application, operational and commercial advisory services.",
+    "icon": "⌁"
+  },
+  {
+    "id": "legal-ip",
+    "name": "Legal & intellectual property",
+    "description": "Trademark, intellectual property, policy and regulatory expertise.",
+    "icon": "§"
+  },
+  {
+    "id": "dns-infrastructure",
+    "name": "DNS & infrastructure",
+    "description": "DNS, hosting, security and critical internet infrastructure.",
+    "icon": "⌬"
+  },
+  {
+    "id": "escrow-trust",
+    "name": "Escrow & trust services",
+    "description": "Escrow, continuity, compliance and trust-related services.",
+    "icon": "◇"
+  },
+  {
+    "id": "marketing-brokers",
+    "name": "Marketing & domain brokers",
+    "description": "Domain brokerage, aftermarket, marketing and commercial services.",
+    "icon": "↗"
+  }
+]
