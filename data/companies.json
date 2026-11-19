@@ -34,7 +34,8 @@
     "country": "United Kingdom",
     "categories": [
       "registry-operators",
-      "dns-infrastructure"
+      "dns-infrastructure",
+      "registry-service-providers"
     ],
     "services": [
       "Registry operations",
